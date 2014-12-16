@@ -1,8 +1,9 @@
-body { margin:0px; }
-#bg{ width:100%; }
+body {background-color: #000000; margin:0px; }
+
+
 
 
     
 #content { position:absolute; top:0px; padding:30px; color: #99FF00; text-align: center; font-size: 200%; }
 
-#results { position:absolute;  top:190px; padding:30px; color: #FFFFFF; text-align: right; font-size: 150%; font-weight: 900; }
+#results { position:absolute;  top:190px; padding:30px; color: #99FF00; text-align: right; font-size: 150%; font-weight: 900; }
