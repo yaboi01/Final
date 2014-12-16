@@ -6,4 +6,4 @@ body {background-color: #000000; margin:0px; }
     
 #content { position:absolute; top:0px; padding:30px; color: #99FF00; text-align: center; font-size: 200%; }
 
-#results { top:300px; padding:30px; color: #99FF00; text-align: left; font-size: 150%; font-weight: 900; }
+#results { position:absolute;  top:300px; padding:30px; color: #99FF00; text-align: right; font-size: 150%; font-weight: 900; }
